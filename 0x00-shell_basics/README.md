@@ -1,2 +1,2 @@
-cw -c
-pwd
+this is for listing
+/n
