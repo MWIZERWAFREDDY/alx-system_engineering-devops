@@ -1,1 +1,2 @@
-pwd is the command used to display current working directory
+#!/bin/bash
+pwd is the command to display current working directory
