@@ -1,2 +1,2 @@
-#!/bin/bash
+cw -c
 pwd
