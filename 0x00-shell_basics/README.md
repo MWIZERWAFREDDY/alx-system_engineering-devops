@@ -1,2 +1,1 @@
-this is for listing
-/n
+pwd is the command for displaying current working directory
